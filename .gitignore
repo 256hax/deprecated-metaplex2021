@@ -35,7 +35,7 @@ hfuzz_workspace
 **/*.so
 **/.DS_Store
 .cache
-js/packages/web/.env
+#js/packages/web/.env
 
 #js/packages/candy-machine-ui/.env
 traits
